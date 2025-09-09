@@ -1,0 +1,11 @@
+sku,product_name,category,subcategory,brand,cost_price,selling_price,stock_quantity,reorder_level,supplier_id,warehouse_location
+SKU001,Laptop Pro 15,Electronics,Computers,TechBrand,800.00,1299.99,15,5,SUP001,Warehouse A
+SKU002,Wireless Mouse,Electronics,Accessories,TechBrand,12.50,29.99,45,10,SUP001,Warehouse A
+SKU003,Office Chair Executive,Furniture,Seating,ComfortPlus,120.00,249.99,8,3,SUP002,Warehouse B
+SKU004,Coffee Mug Ceramic,Kitchen,Drinkware,HomeStyle,3.50,12.99,67,15,SUP003,Warehouse C
+SKU005,Notebook A4 Pack,Stationery,Paper Products,PaperCo,6.75,15.99,23,20,SUP004,Warehouse A
+SKU006,Smartphone X12,Electronics,Mobile,TechBrand,450.00,799.99,12,5,SUP001,Warehouse A
+SKU007,Desk Lamp LED,Furniture,Lighting,BrightLight,25.00,65.99,19,8,SUP002,Warehouse B
+SKU008,Water Bottle Steel,Kitchen,Drinkware,EcoBottle,8.25,18.99,34,12,SUP003,Warehouse C
+SKU009,Pen Set Premium,Stationery,Writing,WriteWell,3.20,8.99,78,25,SUP004,Warehouse A
+SKU010,Tablet Pro 10,Electronics,Computers,TechBrand,275.00,499.99,6,3,SUP001,Warehouse A
